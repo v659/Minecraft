@@ -23,4 +23,4 @@ The engine supports:
 - Custom mountain model generation with secondary peaks and cliffs.
 - Easy integration with Ursina's voxel system.
 - Texture resizing script to standardize assets.
-- Custom GLSL shader to add realistic lighting to the terrain.
+- Custom GLSL shader to add realistic lighting to the terrain.(Optional to add in code)
