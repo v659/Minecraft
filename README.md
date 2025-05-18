@@ -12,7 +12,7 @@ This project is a voxel-based procedural terrain engine built with the Ursina En
 The engine supports:
 
 - Procedural generation of varied terrain biomes such as mountains, hills, deserts, and more.
-- Realistic mountain models with multiple peaks, ridges, cliffs, and natural height variations.
+- Minecraft like blocks creating terrains of different biomes using perlin noise
 - Efficient voxel rendering with interactive blocks.
 - Image preprocessing utility to resize textures for voxel blocks.
 - Optional Phong shading for enhanced visual effects.
