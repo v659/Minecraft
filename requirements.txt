@@ -1,0 +1,3 @@
+ursina
+pillow
+numpy
