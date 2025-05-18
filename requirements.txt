@@ -1,3 +1,4 @@
 ursina
 pillow
 numpy
+python IDE that supports glsl(If you want to add it)
